@@ -2,5 +2,6 @@
 chmod +x *
 chmod -x README.md
 git add .
-git commit -m commit
+git commit -m m
 git push
+
